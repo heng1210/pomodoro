@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /d D:\\\\claude)",
+      "Bash(npm create *)",
+      "Bash(export PATH=\"$HOME/.cargo/bin:$PATH\")",
+      "Bash(npm run *)",
+      "Bash(npm install *)",
+      "Bash(git *)",
+      "Bash(ssh-keygen *)",
+      "Bash(ssh *)"
+    ]
+  }
+}
